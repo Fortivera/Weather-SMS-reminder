@@ -1,4 +1,4 @@
-# Weather-SMS-reminder
+# Weather SMS reminder
 Send a weather related SMS to a phone  
 
 # Table of Contents  
