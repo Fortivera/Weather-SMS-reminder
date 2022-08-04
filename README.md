@@ -1,13 +1,5 @@
 # Weather SMS reminder
 Send a weather related SMS to a phone  
-
-# Table of Contents  
-[General info](#gen) 
-
-[Technology](#tech)
-
-[Installation](#installation)
-
  
 ## General info
 Program that connects to a [OpenWeather API](https://openweathermap.org/api) and fetches json() data, this information is used to make specific weather SMS using a programmable mobile application [Twilio](https://www.twilio.com/).   
